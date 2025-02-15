@@ -14,3 +14,7 @@
 [06:30:04 | 15-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x39a3f0a3d5cacde5a40f5dcdd686edf0414f9029577ca2134b8a8e64e0981f4b
 [06:33:08 | 15-02-2025] Transfer Task successful for 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
 [06:33:11 | 15-02-2025] Bridge Task successful for 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
+Error:
+[09:13:39 | 15-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xaa7e5110fdf0a6b36db02d0788cb471574dd53d1807fc4e33e876d50c1856973
+[09:16:42 | 15-02-2025] Transfer Task successful for 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
+[09:16:45 | 15-02-2025] Bridge Task successful for 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597
